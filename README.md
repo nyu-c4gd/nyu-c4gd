@@ -5,8 +5,7 @@ This website is an online game repos for Coding for Game Design.
 ## CREATE (Consortium for Research and Evaluation of Advanced Technologies in Education) 
 
 
-
-[CREATE Website](https://create.nyu.edu/).
+[CREATE Website](https://create.nyu.edu/)
 
 ----
 ### Meet Instructors
@@ -31,7 +30,7 @@ This website is an online game repos for Coding for Game Design.
 
 ## Session 2 Projects
 
-+ **Apocalypse**
++ [**Apocalypse**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
   - Mason and Justin
   
 + **Castle Defender**
