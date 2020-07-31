@@ -36,7 +36,7 @@ This website is an online game repos for Coding for Game Design.
   - **Created by:** Mason and Justin
   - **Description:** A tower defense game in which you defend against a wave of aliens.
   
-+ [**Castle Defender**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
++ [**Castle Defender**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/castle_defender/)
   - **Created by:** Anthony and Daniel
   - **Description:** You are a king and you must protect your castle from intruders. You can deploy mages and knights to win the battle. You will be attacked by dragons and mystical creatures. Once you win the war you can roam free in the Sandbox.
   
