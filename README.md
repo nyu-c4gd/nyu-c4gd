@@ -33,10 +33,12 @@ This website is an online game repos for Coding for Game Design.
 ## Session 2 Projects
 
 + [**Apocalypse**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
-  - Mason and Justin
+  - **Created by:** Mason and Justin
+  - **Description:** A tower defense game in which you defend against a wave of aliens.
   
 + [**Castle Defender**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
-  - Anthony and Daniel
+  - **Created by:** Anthony and Daniel
+  - **Description:**
   
 + [**Dungeon Puzzle**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
   - Wilbert, Jiatong, and Lucas
