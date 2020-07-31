@@ -2,7 +2,18 @@
 
 This website is an online game repos for Coding for Game Design.
 
+## CREATE (Consortium for Research and Evaluation of Advanced Technologies in Education) 
+
+[CREATE Website](https://create.nyu.edu/).
+
+----
+### Meet Instructors
+
+----
+
 #### Steven Yoo
+
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 
 * A bulletted list
 - alternative syntax 1
@@ -12,6 +23,8 @@ This website is an online game repos for Coding for Game Design.
   
 #### Shashank Pawar
 
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+
 * A bulletted list
 - alternative syntax 1
 + alternative syntax 2
@@ -20,9 +33,11 @@ This website is an online game repos for Coding for Game Design.
 
 This is a demo of all styled elements in Jekyll Now. 
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
+
 
 This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
+
+----
 
 ## Session 2 Projects
 
