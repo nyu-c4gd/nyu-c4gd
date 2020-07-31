@@ -41,16 +41,20 @@ This website is an online game repos for Coding for Game Design.
   - **Description:**
   
 + [**Dungeon Puzzle**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
-  - Wilbert, Jiatong, and Lucas
+  - **Created by:** Wilbert, Jiatong, and Lucas
+  - **Description:** Separated into different rooms, two wizards move in synchrony to escape a dungeon. Using their unique abilities and keen intellect, the wizards solve the increasingly difficult puzzles as they progress through the dungeon. The dungeon will be split up into worlds that each introduce new mechanics and allow the player to master them.
   
 + [**Escort**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
-  - Franklin, Gavin, Muneer, and William
+  - **Created by:** Franklin, Gavin, Muneer, and William
+  - **Description:**
   
 + [**Odysseus In Underworld**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
-  - Dani and Manav
+  - **Created by:** Dani and Manav
+  - **Description:**
   
 + [**Parkorium**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
-  - Liam
+  - **Created by:** Liam
+  - **Description:**
 
 
 ----
