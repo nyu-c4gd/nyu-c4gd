@@ -38,7 +38,7 @@ This website is an online game repos for Coding for Game Design.
   
 + [**Castle Defender**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
   - **Created by:** Anthony and Daniel
-  - **Description:**
+  - **Description:** You are a king and you must protect your castle from intruders. You can deploy mages and knights to win the battle. You will be attacked by dragons and mystical creatures. Once you win the war you can roam free in the Sandbox.
   
 + [**Dungeon Puzzle**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
   - **Created by:** Wilbert, Jiatong, and Lucas
