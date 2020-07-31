@@ -40,7 +40,7 @@ This website is an online game repos for Coding for Game Design.
   - **Created by:** Anthony and Daniel
   - **Description:** You are a king and you must protect your castle from intruders. You can deploy mages and knights to win the battle. You will be attacked by dragons and mystical creatures. Once you win the war you can roam free in the Sandbox.
   
-+ [**Dungeon Puzzle**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
++ [**Dungeon Puzzle**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/dungeon_puzzle/)
   - **Created by:** Wilbert, Jiatong, and Lucas
   - **Description:** Separated into different rooms, two wizards move in synchrony to escape a dungeon. Using their unique abilities and keen intellect, the wizards solve the increasingly difficult puzzles as they progress through the dungeon. The dungeon will be split up into worlds that each introduce new mechanics and allow the player to master them.
   
