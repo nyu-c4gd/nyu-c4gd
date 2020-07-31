@@ -4,12 +4,13 @@ This website is an online game repos for Coding for Game Design.
 
 ## CREATE (Consortium for Research and Evaluation of Advanced Technologies in Education) 
 
+![an image alt text]({{ site.baseurl }}https://imgur.com/0nEAZHR "create-logo")
+
 [CREATE Website](https://create.nyu.edu/).
 
 ----
 ### Meet Instructors
 
-----
 
 #### Steven Yoo
 
