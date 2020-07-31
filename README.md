@@ -10,21 +10,23 @@ This website is an online game repos for Coding for Game Design.
 ----
 ### Meet Instructors
 
+#### Shashank Pawar
+
+* I'm a Game Designer and Researcher
+- Game Design Professor
++ **Educations**
+  - B.E. in Computer Science
+  - M.S. in Games for Learning
+  - PhD. in Education Technology
 
 #### Steven Yoo
 
-* A bulletted list
-- alternative syntax 1
-+ alternative syntax 2
-  - an indented list item
+* I'm a Game Developer and Researcher
+- Game Developer (Unity) Professor
++ **Education**
+  - B.S. in Computer Engineering
+  - M.S. in Integrated Digital Media
   
-  
-#### Shashank Pawar
-
-* A bulletted list
-- alternative syntax 1
-+ alternative syntax 2
-  - an indented list item
 
 ----
 
@@ -33,19 +35,19 @@ This website is an online game repos for Coding for Game Design.
 + [**Apocalypse**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
   - Mason and Justin
   
-+ **Castle Defender**
++ [**Castle Defender**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
   - Anthony and Daniel
   
-+ **Dungeon Puzzle**
++ [**Dungeon Puzzle**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
   - Wilbert, Jiatong, and Lucas
   
-+ **Escort**
++ [**Escort**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
   - Franklin, Gavin, Muneer, and William
   
-+ **Odysseus In Underworld**
++ [**Odysseus In Underworld**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
   - Dani and Manav
   
-+ **Parkorium**
++ [**Parkorium**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
   - Liam
 
 
