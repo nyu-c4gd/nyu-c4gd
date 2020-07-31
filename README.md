@@ -32,7 +32,7 @@ This website is an online game repos for Coding for Game Design.
 
 ## Session 2 Projects
 
-+ [**Apocalypse**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
++ [**Apocalypse**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/apocalypse/)
   - **Created by:** Mason and Justin
   - **Description:** A tower defense game in which you defend against a wave of aliens.
   
@@ -56,7 +56,7 @@ This website is an online game repos for Coding for Game Design.
 	This game requires the player to master the skills of jumping. Especially as the speed of the game increases, it will be more difficult for the player to survive. The goal of the game is to return home, though it will be impossible in our game (because it is endless).
 
   
-+ [**Parkorium**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
++ [**Parkorium**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/parkorium/)
   - **Created by:** Liam
   - **Description:** For my game I designed it to sort of be a slightly challenging game in which your goal is to figure out your way to one of the Gems while discovering the mechanics on your own. I have a vaporwave type background and I tried my best to have the asset colors match said background. The main mechanics are sliding, jumping, and movement. These skills will help you get to the gem and finish the level. I tried my best to keep the design as minimalistic as possible so that there wasn't anything graphically that looks incredibly off. The game will probably take the player anywhere from 30 seconds to 10 minutes to complete depending on their skill level. When you do get to one of the gems the game restarts including the soundtrack.
 
