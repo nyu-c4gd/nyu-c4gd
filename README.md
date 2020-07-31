@@ -44,7 +44,7 @@ This website is an online game repos for Coding for Game Design.
   - **Created by:** Wilbert, Jiatong, and Lucas
   - **Description:** Separated into different rooms, two wizards move in synchrony to escape a dungeon. Using their unique abilities and keen intellect, the wizards solve the increasingly difficult puzzles as they progress through the dungeon. The dungeon will be split up into worlds that each introduce new mechanics and allow the player to master them.
   
-+ [**Escort**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
++ [**Escort**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/escort/escort/)
   - **Created by:** Franklin, Gavin, Muneer, and William
   - **Description:** You are a robot babysitting the family baby when suddenly your house is raided.  Your job is to safely escort the baby out of the house and kill all the enemies.  Our game is a top down shooter where you have to travel through a house and kill enemies and protect the baby. The baby is randomly wandering around but you can push it to influence its movement.  Escort the baby safely out the house to win.
   - **Tutorial:** Move using WASD and use your mouse to aim.  Use QEF to shoot and “space” to discard your weapon and select a new one.  Upon picking your weapon, the gun will automatically shoot at your mouse. 
