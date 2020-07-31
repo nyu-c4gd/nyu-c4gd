@@ -26,22 +26,22 @@ This is a paragraph, it's surrounded by whitespace. Next up are some headers, th
 
 ## Session 2 Projects
 
-+ Apocalypse
++ **Apocalypse**
   - Mason and Justin
   
-+ Castle Defender
++ **Castle Defender**
   - Anthony and Daniel
   
-+ Dungeon Puzzle
++ **Dungeon Puzzle**
   - Wilbert, Jiatong, and Lucas
   
-+ Escort
++ **Escort**
   - Franklin, Gavin, Muneer, and William
   
-+ Odysseus In Underworld
++ **Odysseus In Underworld**
   - Dani and Manav
   
-+ Parkorium
++ **Parkorium**
   - Liam
 
 ### Header 3
