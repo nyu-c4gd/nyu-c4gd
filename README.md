@@ -1,13 +1,22 @@
-## Welcome to NYU Coding for Game Design Online Repositories
+# Welcome to NYU Coding for Game Design Online Repositories
 
-This website is...
+This website is an online game repos for Coding for Game Design.
 
-## Steven Yoo
-## Shashank Pawar
+#### Steven Yoo
 
-layout: post
-title: Markdown Style Guide
----
+* A bulletted list
+- alternative syntax 1
++ alternative syntax 2
+  - an indented list item
+  
+  
+#### Shashank Pawar
+
+* A bulletted list
+- alternative syntax 1
++ alternative syntax 2
+  - an indented list item
+
 
 This is a demo of all styled elements in Jekyll Now. 
 
@@ -15,7 +24,25 @@ This is a demo of all styled elements in Jekyll Now.
 
 This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
 
-## Header 2 (H1 is reserved for post titles)##
+## Session 2 Projects
+
++ Apocalypse
+  - Mason and Justin
+  
++ Castle Defender
+  - Anthony and Daniel
+  
++ Dungeon Puzzle
+  - Wilbert, Jiatong, and Lucas
+  
++ Escort
+  - Franklin, Gavin, Muneer, and William
+  
++ Odysseus In Underworld
+  - Dani and Manav
+  
++ Parkorium
+  - Liam
 
 ### Header 3
 
