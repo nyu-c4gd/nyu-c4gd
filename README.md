@@ -50,7 +50,7 @@ This website is an online game repos for Coding for Game Design.
   - **Tutorial:** Move using WASD and use your mouse to aim.  Use QEF to shoot and “space” to discard your weapon and select a new one.  Upon picking your weapon, the gun will automatically shoot at your mouse. 
 
   
-+ [**Odysseus In Underworld**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/)
++ [**Odysseus In Underworld**](https://nyu-c4gd.github.io/nyu-c4gd/games/session2/odysseus_in_underworld/)
   - **Created by:** Dani and Manav
   - **Description:** Our game is an endless 3D running game starring Odysseus, the main character of our narrative. The player (Odysseus) is running through the Underworld while being chased by ghosts.  Odysseus will run through different parts of the Underworld, containing different terrains.  We added  facts about Odysseus and his actual trip to the Underworld to teach the player. As the player progresses Odysseus will run faster, making the pace of the game increase. There will also be more obstacles. 
 	This game requires the player to master the skills of jumping. Especially as the speed of the game increases, it will be more difficult for the player to survive. The goal of the game is to return home, though it will be impossible in our game (because it is endless).
