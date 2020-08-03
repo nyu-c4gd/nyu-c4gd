@@ -10,22 +10,29 @@ This website is an online game repos for Coding for Game Design.
 ----
 ### Meet Instructors
 
+![alt text](./images/shashank.png "shashank")
+
 #### Shashank Pawar
 
 * I'm a Game Designer and Researcher
 - Game Design Professor
 + **Educations**
-  - B.E. in Computer Science
-  - M.S. in Games for Learning
   - PhD. in Education Technology
+  - M.S. in Games for Learning
+  - B.E. in Computer Science
+  
+  
+  
+![alt text](./images/steven.png "steven")
 
 #### Steven Yoo
 
 * I'm a Game Developer and Researcher
 - Game Developer (Unity) Professor
 + **Education**
-  - B.S. in Computer Engineering
   - M.S. in Integrated Digital Media
+  - B.S. in Computer Engineering
+  
   
 
 ----
