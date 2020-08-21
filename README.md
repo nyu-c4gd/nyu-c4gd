@@ -70,4 +70,34 @@ This website is an online game repos for Coding for Game Design.
 
 
 ----
+
+## Session 3 Projects
+
++ [**Courier**](https://nyu-c4gd.github.io/nyu-c4gd/games/session3/courier/)
+  - **Created by:** Taylor and Leo
+  - **Description:** A man wakes up in a mysterious lab with nothing but the crate on his back, his trusty crowbar, and the motivation of a box of his favorite cookies at the end of the maze. Can he make it through all the perilous trials of the lab?
+  
++ [**Demonic Destruction**](https://nyu-c4gd.github.io/nyu-c4gd/games/session3/demonicdestruction/)
+  - **Created by:** Wilson, Harrison, and Rose
+  - **Description:** 
+  
++ [**Factory Jumper**](https://nyu-c4gd.github.io/nyu-c4gd/games/session3/factoryjumper/)
+  - **Created by:** Daniel and Ian
+  - **Description:** Factory Jumper is a game where you enter an old factory that suddenly comes back to life. You have to dodge moving pistons as well as use conveyors to navigate your way out.
+  
++ [**Neko Neko Ni**](https://nyu-c4gd.github.io/nyu-c4gd/games/session3/nekonekoni/)
+  - **Created by:** Danika and Silvia
+  - **Description:** You are a cat left alone at your house and an army of mice try to ruin the house. You must defend your house by killing all the mice in each room.
+
+  - **Tutorial:** Use the arrow keys to move left and right, use the space bar to jump, and use the S key to swat at enemies.
+
++ [**Too Far Gone**](https://nyu-c4gd.github.io/nyu-c4gd/games/session3/toofargone/)
+  - **Created by:** Brendan, Sam, and Cary
+  - **Description:** Too Far Gone is a platformer adventure game about Dexter, an astronaut who got sucked through a wormhole, and is lost on an alien planet, who is trying to venture around the planet and reach his damaged ship in under 3 days time, before the wormhole closes.
+  
++ [**Tree**](https://nyu-c4gd.github.io/nyu-c4gd/games/session3/tree/)
+  - **Created by:** Allan, Andy, and William
+  - **Description:** 
+
+
 ****
