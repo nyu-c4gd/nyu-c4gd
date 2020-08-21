@@ -79,7 +79,7 @@ This website is an online game repos for Coding for Game Design.
   
 + [**Demonic Destruction**](https://nyu-c4gd.github.io/nyu-c4gd/games/session3/demonicdestruction/)
   - **Created by:** Wilson, Harrison, and Rose
-  - **Description:** 
+  - **Description:** You have been sent to the Demon realm in order to cull the Demon population, under the pretense that this would protect the rest of existence from the Apocalypse. But is this actually true?
   
 + [**Factory Jumper**](https://nyu-c4gd.github.io/nyu-c4gd/games/session3/factoryjumper/)
   - **Created by:** Daniel and Ian
