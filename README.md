@@ -97,7 +97,7 @@ This website is an online game repos for Coding for Game Design.
   
 + [**Tree**](https://nyu-c4gd.github.io/nyu-c4gd/games/session3/tree/)
   - **Created by:** Allan, Andy, and William
-  - **Description:** 
+  - **Description:** Game starts in a small village, with one quiet main character. Leaving his home, he hears a sound to the left of him (rather than the widely accepted rightward progression), in the forest. He grabs a stick and runs in. Mostly inspired by the 2D sections of Link’s Awakening and Megaman, the game will be centered around platforming, puzzles, and combat. There will be two more unlockable characters, the shooter character, and the spell caster character. Both are able to solve new types of puzzles and aid in certain combat matchups.
 
 
 ****
