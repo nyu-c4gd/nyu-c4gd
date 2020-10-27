@@ -10,7 +10,7 @@ This website is an online game repos for Coding for Game Design.
 ----
 ### Meet Instructors
 
-![alt text](/images/shashank.png "shashank"){:class="img-responsive"}
+![Image of Yaktocat](/images/shashank.png)
 
 
 #### Shashank Pawar
@@ -24,7 +24,7 @@ This website is an online game repos for Coding for Game Design.
   
   
   
-![alt text](/images/steven.png "steven"){:class="img-responsive"}
+![Image of Yaktocat](/images/steven.png)
 
 #### Steven Yoo
 
