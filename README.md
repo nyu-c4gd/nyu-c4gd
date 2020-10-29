@@ -18,7 +18,7 @@ This website is an online game repos for Coding for Game Design.
 * I'm a Game Designer and Researcher
 - Game Design Professor
 + **Educations**
-  - PhD. in Education Technology
+  - PhD. in Educational Communication and Technology
   - M.S. in Games for Learning
   - B.E. in Computer Science
 
