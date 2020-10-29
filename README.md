@@ -8,12 +8,12 @@ This website is an online game repos for Coding for Game Design.
 [CREATE Website](https://create.nyu.edu/)
 
 ----
-### Meet Instructors
+## Meet Instructors
+
+
+### Shashank Pawar
 
 ![Image of Yaktocat](/images/shashank.png)
-
-
-#### Shashank Pawar
 
 * I'm a Game Designer and Researcher
 - Game Design Professor
@@ -21,12 +21,12 @@ This website is an online game repos for Coding for Game Design.
   - PhD. in Education Technology
   - M.S. in Games for Learning
   - B.E. in Computer Science
+
+----
   
-  
+### Steven Yoo  
   
 ![Image of Yaktocat](/images/steven.png)
-
-#### Steven Yoo
 
 * I'm a Game Developer and Researcher
 - Game Developer (Unity) Professor
