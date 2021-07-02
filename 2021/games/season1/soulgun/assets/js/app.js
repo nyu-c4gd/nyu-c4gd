@@ -21,7 +21,7 @@ $( window ).resize(function() {
 // check for fullscreen toggle
 $(document).keydown(function(event) {
   var keycode = (event.keyCode ? event.keyCode : event.which);
-  if(keycode == '70'){
+  if(keycode == '187'){
     if (!isFullscreen) {
       unityInstance.SetFullscreen(1);
       isFullscreen = true;
