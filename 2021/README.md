@@ -8,7 +8,7 @@
   - **Created by:** Victor, Franklin, and Rafe
   - **Description:** You are running on a road while trying to dodge the various obstacles by jumping, sliding, and moving left and right. You have 3 lives and a score based on how far travel. There are also powerup boxes that can either gives you a boost of speed or restore an extra life.
   
-+ [**Nocturne**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/nocturne/
++ [**Nocturne**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/nocturne/)
   - **Created by:** James, Richard, and Sotirios
   - **Description:** A Simple wave-based game where the player can stop time while fighting enemies and bosses.
 
