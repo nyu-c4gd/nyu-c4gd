@@ -10,11 +10,11 @@ This website is an online game repos for Coding for Game Design.
 
 ## 2020 Coding for Game Design Summer Program 
 
-+ [**2020 Coding for Game Design Summer Program **](https://nyu-c4gd.github.io/nyu-c4gd/2020/)
++ [2020 Coding for Game Design Summer Program](https://nyu-c4gd.github.io/nyu-c4gd/2020/)
 
 ## 2021 Coding for Game Design Summer Program 
 
-+ [**2021 Coding for Game Design Summer Program **](https://nyu-c4gd.github.io/nyu-c4gd/2021/)
++ [2021 Coding for Game Design Summer Program](https://nyu-c4gd.github.io/nyu-c4gd/2021/)
 ----
 
 ****
