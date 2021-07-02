@@ -1,0 +1,60 @@
+<!--
+Steven Yoo
+-->
+
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Too Far Gone</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <script src="assets/js/jquery-3.4.1.min.js"></script>
+
+    <!-- unity resources and change json -->
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/toofargone.json");
+    </script>
+  </head>
+  <body>
+
+    <div>
+      <br>
+      <!-- Empty Space -->
+    </div>
+    <div class="webgl-wrapper">
+        <div class="webgl-content">
+          <div id="unityContainer" style="width:2880; height: 1800px;"></div>
+        </div>
+    </div>
+
+    <div class="info">
+      <bold><h2>Description:</h2></bold>
+      <br>
+      <p>Too Far Gone is a platformer adventure game about Dexter, an astronaut who got sucked through a wormhole, and is lost on an alien planet, who is trying to venture around the planet and reach his damaged ship in under 3 days time, before the wormhole closes
+    
+    </p>
+      <br>
+      <h4>Created by: Brendan, Sam, and Cary
+    </h4>
+      <br>
+      
+    </div>
+
+   
+
+    <div class="info">  
+      <p>press F or <a href="#" onclick="unityInstance.SetFullscreen(1)">click here</a> to toggle fullscreen</p>
+    </div>
+
+
+
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>

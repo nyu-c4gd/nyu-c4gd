@@ -1,0 +1,65 @@
+<!--
+Steven Yoo
+-->
+
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Neko Neko Ni</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <script src="assets/js/jquery-3.4.1.min.js"></script>
+
+    <!-- unity resources and change json -->
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/nekonekoni.json");
+    </script>
+  </head>
+  <body>
+
+    <div>
+      <br>
+      <!-- Empty Space -->
+    </div>
+    <div class="webgl-wrapper">
+        <div class="webgl-content">
+          <div id="unityContainer" style="width:1280px; height: 720px;"></div>
+        </div>
+    </div>
+
+    <div class="info">
+      <bold><h2>Description:</h2></bold>
+      <br>
+      <p> You are a cat left alone at your house and an army of mice try to ruin the house. You must defend your house by killing all the mice in each room.
+    
+    </p>
+    <div class="info">  
+      <p><bold>Instruction: </bold>Use the arrow keys to move left and right, use the space bar to jump, and use the S key to swat at enemies.</p>
+    </div>
+
+      <br>
+      <h4>Created by: Danika and Silvia
+    </h4>
+      <br>
+      
+    </div>
+
+
+
+
+    <div class="info">  
+      <p>press F or <a href="#" onclick="unityInstance.SetFullscreen(1)">click here</a> to toggle fullscreen</p>
+    </div>
+
+
+
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>
