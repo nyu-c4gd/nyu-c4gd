@@ -17,7 +17,7 @@
   - **Description:** You find yourself on an unknown island and you must solve puzzles, defeat enemies, and unveil the mystery of the origins of the mysterious island.
 
   
-+ [**Box Hitman**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/Blocks Hitman/)
++ [**Box Hitman**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/BlocksHitman/)
   - **Created by:** Daniel and Eric
   - **Description:** A puzzle game where the player has to kill the golden square and exit the map.
 
