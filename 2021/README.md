@@ -1,6 +1,6 @@
 # Session 1 Projects
 
-+ [**Wrath of the Witch**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/wrathofwitch/)
++ [**Wrath of the Witch**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/wrathofthewitch/)
   - **Created by:** Emily, Eli, and Esteban
   - **Description:** An endless top-down PvE game with a focus on switiching weapons to fit the enemy's weakness.
   
@@ -17,7 +17,7 @@
   - **Description:** You find yourself on an unknown island and you must solve puzzles, defeat enemies, and unveil the mystery of the origins of the mysterious island.
 
   
-+ [**Box Hitman**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/BlocksHitman/)
++ [**Box Hitman**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/boxhitman/)
   - **Created by:** Daniel and Eric
   - **Description:** A puzzle game where the player has to kill the golden square and exit the map.
 
