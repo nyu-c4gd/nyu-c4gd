@@ -29,4 +29,28 @@
 
 ----
 
+----
+
+# Session 2 Projects
+
++ [**Planetary Escape**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season2/PlanetaryEscape/)
+  - **Created by:** Natalie, Ben, and Vincent
+  
++ [**Meteor Impact**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session2/MeteorImpact/)
+  - **Created by:** Trevor, Agastya, and Ethan
+
+  
++ [**Jungle Runner**](https://https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season2/JungleRunner/)
+  - **Created by:** Arun, Carson, and Harvey
+
++ [**YM's Dungeon**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season2/YMsDungeon/)
+  - **Created by:** Jason, Adrian, and Ashton
+  
++ [**Explorer**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season2/Explorer/)
+  - **Created by:** Brendan and Alan
+
++ [**Survive the Night**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season2/SurviveTheNight/)
+  - **Created by:** Danik, Jerry, and Jimmy
+
+****
 ****
