@@ -24,7 +24,7 @@
   - **Description:** A puzzle game where the player has to kill the golden square and exit the map.
 
   
-+ [**Soul Gun**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/soulgun/)
++ [**Soul Gun**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/SoulGun/)
   - **Created by:** Wesley and Shaun
   - **Description:** Stuck on an island, encountering mini-bosses in waves along the way, trying to get through as many waves as possible. Along the way there will be power ups that help the player do more damage to the enemies.
 
