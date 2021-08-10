@@ -74,7 +74,7 @@
   - **Created by:** Brian, Lukas, and Kelin
   - **Description:** A Simple wave-based game where the player can stop time while fighting enemies and bosses.
 
-+ [**Lost in Time**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group4/)
++ [**Armageddon 14205**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group4/)
   - **Created by:** Isabella C and Diana 
   - **Description:** You find yourself on an unknown island and you must solve puzzles, defeat enemies, and unveil the mystery of the origins of the mysterious island.
 
