@@ -64,7 +64,7 @@
 
 + [**The Mad Mage's Dungeon**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season3/group1/)
   - **Created by:** Baker, Patrick, and Salma
-  - **Description:** An endless top-down PvE game with a focus on switiching weapons to fit the enemy's weakness.
+  - **Description:** The player is a wizard in a dungeon and unleashes spells to attack the enemies aiming to kill them. After defeating the enemies in the dungeon, the player will have a boss level.
   
 + [**Lost**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group2/)
   - **Created by:** Maceo, John, and Yize
