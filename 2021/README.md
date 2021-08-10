@@ -59,3 +59,27 @@
 
 
 ****
+
+## Session 3 Projects
+
++ [**The Mad Mage's Dungeon**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season3/group1/)
+  - **Created by:** Baker, Patrick, and Salma
+  - **Description:** An endless top-down PvE game with a focus on switiching weapons to fit the enemy's weakness.
+  
++ [**Lost**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group2/)
+  - **Created by:** Maceo, John, and Yize
+  - **Description:** You are running on a road while trying to dodge the various obstacles by jumping, sliding, and moving left and right. You have 3 lives and a score based on how far travel. There are also powerup boxes that can either gives you a boost of speed or restore an extra life.
+  
++ [**Tumble Toss**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group3/)
+  - **Created by:** Brian, Lukas, and Kelin
+  - **Description:** A Simple wave-based game where the player can stop time while fighting enemies and bosses.
+
++ [**Lost in Time**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group4/)
+  - **Created by:** Isabella C and Diana 
+  - **Description:** You find yourself on an unknown island and you must solve puzzles, defeat enemies, and unveil the mystery of the origins of the mysterious island.
+
+  
++ [**Box Hitman**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group5/)
+  - **Created by:** Danielle and Isabella B
+  - **Description:** A puzzle game where the player has to kill the golden square and exit the map.
+
