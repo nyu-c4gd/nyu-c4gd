@@ -67,7 +67,7 @@
   
 + [**Lost**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group2/)
   - **Created by:** Maceo, John, and Yize
-  - **Description:** You are the LAST survivor of the world, You must fight your way through waves of zombies to ensure your safety! Last for as long as possible in this endless apocalypse as the waves get harder and more stressful! Every 5 rounds you gain a buff to stamina and every wave you clear you get points which you can purchase health upgrades.
+  - **Description:** You are the LAST survivor of the world: You must fight your way through waves of zombies to ensure your safety! Last for as long as possible in this endless apocalypse as the waves get harder and more stressful! Every 5 rounds you gain a buff to stamina and every wave you clear you get points which you can purchase health upgrades.
   - 
 + [**Tumble Toss**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group3/)
   - **Created by:** Brian, Lukas, and Kelin
