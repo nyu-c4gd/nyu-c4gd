@@ -79,7 +79,7 @@
   - **Description:** You find yourself on an unknown island and you must solve puzzles, defeat enemies, and unveil the mystery of the origins of the mysterious island.
 
   
-+ [**Box Hitman**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group5/)
++ [**Robot Rumble 3000**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group5/)
   - **Created by:** Danielle and Isabella B
-  - **Description:** A puzzle game where the player has to kill the golden square and exit the map.
+  - **Description:** Robot Rumble 3000 is a third-person shooter game where you must defeat the waves of evil carbon particles to save the Earth from a climate change-induced Solar Storm. Use your Robot’s decarbonizing bullets to eliminate as many enemies as you can without dying. Save the world while having fun!
 
