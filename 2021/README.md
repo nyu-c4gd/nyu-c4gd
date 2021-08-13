@@ -71,7 +71,7 @@
   - 
 + [**Tumble Toss**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group3/)
   - **Created by:** Brian, Lukas, and Kelin
-  - **Description:** A Simple wave-based game where the player can stop time while fighting enemies and bosses.
+  - **Description:** You play as a silver ball, and your objective is to knock the other approaching enemy balls (who spawn in waves that gradually increase) off the stage. You are assisted by powerups, which can help you knock them off in a faster or more creative way.
 
 + [**Armageddon 14205**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group4/)
   - **Created by:** Isabella C and Diana 
