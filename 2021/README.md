@@ -65,19 +65,19 @@
   - **Created by:** Baker, Patrick, and Salma
   - **Description:** The player is a wizard in a dungeon and unleashes spells to attack the enemies aiming to kill them. After defeating the enemies in the dungeon, the player will have a boss level.
   
-+ [**Lost**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group2/)
++ [**Lost**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season3/group2/)
   - **Created by:** Maceo, John, and Yize
   - **Description:** You are the LAST survivor of the world: You must fight your way through waves of zombies to ensure your safety! Last for as long as possible in this endless apocalypse as the waves get harder and more stressful! Every 5 rounds you gain a buff to stamina and every wave you clear you get points which you can purchase health upgrades.
   - 
-+ [**Tumble Toss**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group3/)
++ [**Tumble Toss**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season3/group3/)
   - **Created by:** Brian, Lukas, and Kelin
   - **Description:** You play as a silver ball, and your objective is to knock the other approaching enemy balls (who spawn in waves that gradually increase) off the stage. You are assisted by powerups, which can help you knock them off in a faster or more creative way.
 
-+ [**Armageddon 14205**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group4/)
++ [**Armageddon 14205**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season3/group4/)
   - **Created by:** Isabella C and Diana 
   - **Description:** You can't remember what, you can't remember when, or even why, you entered the ominous dungeon laid beneath your village, but you knew you had to complete it. A retired wizard with a gun had to have a purpose, right? Discover puzzles, defeat the undead enemies, and uncover dark secrets in Armageddon 14205! Will you find the missing puzzle piece in your story? Play to find out~
 
-+ [**Robot Rumble 3000**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group5/)
++ [**Robot Rumble 3000**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season3/group5/)
   - **Created by:** Danielle and Isabella B
   - **Description:** Robot Rumble 3000 is a third-person shooter game where you must defeat the waves of evil carbon particles to save the Earth from a climate change-induced Solar Storm. Use your Robot’s decarbonizing bullets to eliminate as many enemies as you can without dying. Save the world while having fun!
 
