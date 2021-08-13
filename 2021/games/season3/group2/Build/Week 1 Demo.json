@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tumble Toss",
+"productVersion": "0.1",
+"dataUrl": "Week 1 Demo.data.unityweb",
+"wasmCodeUrl": "Week 1 Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Week 1 Demo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.28f1"
+}
