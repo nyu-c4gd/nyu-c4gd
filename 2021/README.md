@@ -41,7 +41,6 @@
   - **Created by:** Trevor, Agastya, and Ethan
 
 
-  
 + [**Jungle Runner**](https://https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season2/JungleRunner/)
   - **Created by:** Arun, Carson, and Harvey
 
@@ -68,17 +67,16 @@
   
 + [**Lost**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group2/)
   - **Created by:** Maceo, John, and Yize
-  - **Description:** You are running on a road while trying to dodge the various obstacles by jumping, sliding, and moving left and right. You have 3 lives and a score based on how far travel. There are also powerup boxes that can either gives you a boost of speed or restore an extra life.
-  
+  - **Description:** You are the LAST survivor of the world: You must fight your way through waves of zombies to ensure your safety! Last for as long as possible in this endless apocalypse as the waves get harder and more stressful! Every 5 rounds you gain a buff to stamina and every wave you clear you get points which you can purchase health upgrades.
+  - 
 + [**Tumble Toss**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group3/)
   - **Created by:** Brian, Lukas, and Kelin
   - **Description:** A Simple wave-based game where the player can stop time while fighting enemies and bosses.
 
 + [**Armageddon 14205**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group4/)
   - **Created by:** Isabella C and Diana 
-  - **Description:** You find yourself on an unknown island and you must solve puzzles, defeat enemies, and unveil the mystery of the origins of the mysterious island.
+  - **Description:** You can't remember what, you can't remember when, or even why, you entered the ominous dungeon laid beneath your village, but you knew you had to complete it. A retired wizard with a gun had to have a purpose, right? Discover puzzles, defeat the undead enemies, and uncover dark secrets in Armageddon 14205! Will you find the missing puzzle piece in your story? Play to find out~
 
-  
 + [**Robot Rumble 3000**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group5/)
   - **Created by:** Danielle and Isabella B
   - **Description:** Robot Rumble 3000 is a third-person shooter game where you must defeat the waves of evil carbon particles to save the Earth from a climate change-induced Solar Storm. Use your Robot’s decarbonizing bullets to eliminate as many enemies as you can without dying. Save the world while having fun!
