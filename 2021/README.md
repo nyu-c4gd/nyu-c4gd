@@ -6,15 +6,15 @@
   - **Created by:** Emily, Eli, and Esteban
   - **Description:** An endless top-down PvE game with a focus on switiching weapons to fit the enemy's weakness.
   
-+ [**Speedrun Survival**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/speedrunsurvival/)
++ [**Speedrun Survival**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season1/speedrunsurvival/)
   - **Created by:** Victor, Franklin, and Rafe
   - **Description:** You are running on a road while trying to dodge the various obstacles by jumping, sliding, and moving left and right. You have 3 lives and a score based on how far travel. There are also powerup boxes that can either gives you a boost of speed or restore an extra life.
   
-+ [**Nocturne**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/nocturne/)
++ [**Nocturne**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season1/nocturne/)
   - **Created by:** James, Richard, and Sotirios
   - **Description:** A Simple wave-based game where the player can stop time while fighting enemies and bosses.
 
-+ [**Lost in Time**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session1/lostintime/)
++ [**Lost in Time**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season1/lostintime/)
   - **Created by:** Sean, Ziyi, and Ziyou
   - **Description:** You find yourself on an unknown island and you must solve puzzles, defeat enemies, and unveil the mystery of the origins of the mysterious island.
 
@@ -65,19 +65,19 @@
   - **Created by:** Baker, Patrick, and Salma
   - **Description:** The player is a wizard in a dungeon and unleashes spells to attack the enemies aiming to kill them. After defeating the enemies in the dungeon, the player will have a boss level.
   
-+ [**Lost**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group2/)
++ [**Lost**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season3/group2/)
   - **Created by:** Maceo, John, and Yize
   - **Description:** You are the LAST survivor of the world: You must fight your way through waves of zombies to ensure your safety! Last for as long as possible in this endless apocalypse as the waves get harder and more stressful! Every 5 rounds you gain a buff to stamina and every wave you clear you get points which you can purchase health upgrades.
   - 
-+ [**Tumble Toss**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group3/)
++ [**Tumble Toss**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season3/group3/)
   - **Created by:** Brian, Lukas, and Kelin
   - **Description:** You play as a silver ball, and your objective is to knock the other approaching enemy balls (who spawn in waves that gradually increase) off the stage. You are assisted by powerups, which can help you knock them off in a faster or more creative way.
 
-+ [**Armageddon 14205**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group4/)
++ [**Armageddon 14205**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season3/group4/)
   - **Created by:** Isabella C and Diana 
   - **Description:** You can't remember what, you can't remember when, or even why, you entered the ominous dungeon laid beneath your village, but you knew you had to complete it. A retired wizard with a gun had to have a purpose, right? Discover puzzles, defeat the undead enemies, and uncover dark secrets in Armageddon 14205! Will you find the missing puzzle piece in your story? Play to find out~
 
-+ [**Robot Rumble 3000**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/session3/group5/)
++ [**Robot Rumble 3000**](https://nyu-c4gd.github.io/nyu-c4gd/2021/games/season3/group5/)
   - **Created by:** Danielle and Isabella B
   - **Description:** Robot Rumble 3000 is a third-person shooter game where you must defeat the waves of evil carbon particles to save the Earth from a climate change-induced Solar Storm. Use your Robot’s decarbonizing bullets to eliminate as many enemies as you can without dying. Save the world while having fun!
 
